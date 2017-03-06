@@ -1,1 +1,1 @@
-<? echo "hello i'm newrepo savasdee" >?
+<? echo "hello today is monday  i am will be solve the problam" >?
