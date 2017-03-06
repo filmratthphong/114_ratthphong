@@ -1,1 +1,1 @@
-<? echo "hello today is monday" >?
+<? echo "hello i'm newrepo savasdee" >?
